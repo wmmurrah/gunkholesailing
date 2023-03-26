@@ -11,3 +11,5 @@ The goal of th is to document my journey to try to become a forehanded sailor.
 
 The initial purpose of this site is as a repository for the information to document what I have done to become a sailor, and to help me plan future projects and adventures.
 I hope it might also be helpful to others.
+
+[^1]: Rousmaniere, J. (1999). *The Annapolis Book of Seamanship: Completely Revised, Expanded and Updated*. Simon and Schuster.

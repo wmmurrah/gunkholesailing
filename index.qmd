@@ -34,5 +34,3 @@ First, the navigation bar at the top organized information by categories.
 Second, the **Captain's Log** on the left of the home page contains a chronological list, with links to other content on the website. While the other tabs are organized conceptually, this tab is there if people are interested in how my journey has progressed over time.
 
 Finally, in the top right of the navigation bar is a magnifying glass that most will recognize as a link to a search bar that can be used to search for content with search terms.
-
-[^1]: Rousmaniere, J. (1999). *The Annapolis Book of Seamanship: Completely Revised, Expanded and Updated*. Simon and Schuster.
