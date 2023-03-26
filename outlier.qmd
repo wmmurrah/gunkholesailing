@@ -8,3 +8,4 @@ She is my first sailboat, which I purchased with no prior experience sailing.
 
 ![Outlier at Wind Creek State Park](images/dock2.jpeg)
 
+In statistics, an outlier is a data point that lies far away from the other data points. It's a deviant, that challenges basic assumptions, and begs explanation. That describes the purpose of my boat.

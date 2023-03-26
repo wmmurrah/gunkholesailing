@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Gunkhole Sailing"
+  title: "gunkholesailing.com"
   favicon: gunkholescene.jpg
   sidebar:
     title: "Captain's Logs"
