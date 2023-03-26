@@ -31,9 +31,6 @@ website:
           - weather.qmd
           - mooring.qmd
       - videos.qmd
-         
-  
-        
 format:
   html:
     theme:  lumen # zephyr, yeti, superhero, sketchy, lumen, materia, sandstone
