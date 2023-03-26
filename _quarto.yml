@@ -11,7 +11,7 @@ website:
     style: floating
     contents: caplogs
   navbar:
-    logo: images/outlierlogo.png
+    logo: outlierlogo.png
     search: true
     left:
       - href: index.qmd
