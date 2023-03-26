@@ -1,0 +1,23 @@
+---
+title: "Outboard Motor"
+---
+
+## Initial Outboard Tune Up
+
+When I purchages *Outlier* she had a 2011 Tohatsu 6hp outboard motor.
+It took me some time to get used to running the outboard, which after I learned to open the air vent in the fuel tank (see [Squall on Lake Martin](caplog2022.qmd#squall))
+After running her with that motor for a year, I decided a tune up would be a good idea.
+I wanted to do it myself, to save money, and, well, that is one of the reasons I got into sailing, as an opportunity for many DIY projects.
+
+[boats.net](https://www.boats.net/)
+
+
+```{r}
+#| echo: false
+source(file = "code/table_outboardTuneup2023_01_21.R")
+knitr::kable(order)
+```
+
+So with shipping and handling being `r paste0("$", shipping)` and tax at `r paste0("$",tax)`, that brought the total to `r paste0("$", Total)`.
+Note that in this order I purchased a spare pull cord to keep as a backup, so the total for the tune up is about three dollars less. 
+Also, a couple of the parts I ordered have multiple items, so will likely not have to purchas again for the next several tune ups.

@@ -1,0 +1,58 @@
+---
+title: "Dinghies"
+---
+
+One of the things that I was not expecting to enjoy so much about sailing was
+being at anchor. 
+
+![Anchored on Lake Martin](images/bigpineanchorage1.jpg){fig-align="left"}
+
+But anchoring poses some logistical issues, a major one is how
+to get ashore.
+In the heat of summer on a calm lake, swimming ashore is feasible.
+And with a small boat on a lake, you can often anchor very close to shore.
+But I also like to sail during the colder months.
+This means I need some craft to act as a dinghy for *Outlier*
+
+## Lake Dinghy for *Outlier* 
+
+Being a 23 foot boat, *Outlier* poses a problem selecting a dinghy. 
+Ideally, I wanted something that met the following criteria:
+
+1. A craft with **reasonable capacity** to transport multiple people as well as gear and provisions,
+2. something that could be **compactly stored** without impeding sailing performance, 
+3. could be **easily deployed**,
+4. was reasonably **inexpensive** and,
+5. **Multipurpose**, meaning it could be used for recreation.
+
+My first serious consideration was an [inflatable stand-up paddleboard](https://en.wikipedia.org/wiki/Standup_paddleboarding) (ISUP).
+The thinking was that a longer one might be able to transport a couple of people -- especially a small person like my daughter at the time --, it could be deflated, or stored on racks outside the lifelines, and could be used for recreational purposes.
+But, after borrowing a couple for our first trip to the coast with *Outlier*, it seemed that storing outside the lifelines was not really a good option.
+An ISUP large enough for our purposes, would span most of the deck length.
+This meant that it would have to be transported deflated, and then inflated at anchor.
+So, either I had to spend about 20 minutes of vigorous exercise to inflate each one (we were considering getting two), or provide power for an electric pump. 
+Because *Outlier* has an outboard motor and no alternator, plus only one house battery, this was not a deal breaker.
+A good quality ISUP was also over $1,000.
+Any craft that required inflation was thus not a good choice for our circumstances.
+
+This left either a very small craft that could fit on deck or one that could be folded.
+I did not see any way to fit a craft on our small deck, which left us looking for a folding craft.
+I had seen folding dinghies, such as the [port-a-bote](https://portabote.com/product/portabote-alpha/), but these are very expensive, and still take up considerable space on a boat the size of *Outlier*. 
+
+![Oru Lake at the lake](images/orusandyshore.jpeg)
+
+I eventually settled on an [Oru Lake](https://www.orukayak.com/products/lake) folding kayak.
+This craft folded to a reasonable size, was light, could be deployed in a few minutes without requiring vigorous effort or electricity, could be used recreationally, and was less expensive than the other options I'd considered.
+But, while it could transport some gear, and I did get my daughter and myself across a small body of water in it , it is not feasible to transport multiple adults at the same time.
+My solution is to carry a long piece of small diameter retrieval line, so individuals can row ashore, the kayak can be pulled back to the boat, and another adult could row ashore.
+This requires being somewhat close to shore, but this is very common on the lake.
+Not surprisingly, this is not an ideal solution, as is often heard, sailing is all about compromises, and this is what I settled on.
+
+## Dinghies for Blue Water Boats
+
+* [Chesapeake Light Craft](https://www.clcboats.com/index.php)
+The [eastport nesting pram](https://www.clcboats.com/shop/boats/wooden-sailboat-kits/eastport-pram/eastport-nesting-dinghy.html)
+
+looks intriguing. Maybe a good dinghy for a blue water boat.
+
+* [B and B Spindrift 9](https://bandbyachtdesigns.com/s9)

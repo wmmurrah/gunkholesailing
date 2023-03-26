@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Gunkhole Sailing"
+  favicon: gunkholescene.jpg
+  sidebar:
+    title: "Captain's Logs"
+    logo: "images/outlierDockedSantaRosa.jpg"
+    background: secondary
+    style: floating
+    contents: caplogs
+  navbar:
+    logo: anchor.png
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Outlier"
+        menu: 
+          - outlier.qmd
+          - motor.qmd
+      - text: "Dream Boat(s)"
+        menu: 
+          - boats.qmd
+          - dinghies.qmd
+      - text: "Seamanship"
+        menu:
+          - seamanship.qmd
+          - navigation.qmd
+          - weather.qmd
+          - mooring.qmd
+      - videos.qmd
+         
+  
+        
+format:
+  html:
+    theme:  lumen # zephyr, yeti, superhero, sketchy, lumen, materia, sandstone
+    css: styles.css
+    toc: true
+
+
