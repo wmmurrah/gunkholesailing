@@ -6,12 +6,12 @@ website:
   favicon: gunkholescene.jpg
   sidebar:
     title: "Captain's Logs"
-    logo: "images/outlierDockedSantaRosa.jpg"
+    logo: Outlierlogo.png
     background: secondary
     style: floating
-    contents: caplogs
+    contents: Gunkhole Adventures
   navbar:
-    logo: outlierlogo.png
+    logo: Outlierlogo.png
     search: true
     left:
       - href: index.qmd
@@ -20,7 +20,7 @@ website:
         menu: 
           - outlier.qmd
           - motor.qmd
-      - text: "Dream Boat(s)"
+      - text: "Bluewater Dreaming"
         menu: 
           - boats.qmd
           - dinghies.qmd
