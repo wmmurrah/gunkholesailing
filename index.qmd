@@ -1,13 +1,10 @@
----
-title: "Gunkhole Sailing"
----
+::: {.column-screen}
+![](images/bigpine_banner.jpg)
+:::
 
 >"Gunkholing is a boating term referring to a type of cruising in shallow or shoal water, meandering from place to place, spending the nights in coves.... **gunkholers typically seek out the serenity of isolated anchorages over the crowds of marinas and popular bays**."
-                                          -- *Wikipedia*
-    
-![](gunkholescene.jpg){width="50%"}
+                                      -- *Wikipedia*
 
-                                          
 Most sailing blogs and Youtube channels chronicle people who give up the landlubbing life to live full-time on a sailboat. And I will gladly admit that most of the channels I follow fit into that category; I too have the dream of a life aboard a bluewater sailboat. Alas, this is not likely for me, at least not yet, and frankly I'm not sure I would really want to do that at this stage in my life. For one, I have a family and, let's just say, they are not nearly as into sailing as I am. Also, I have a job, and enjoy having things like money and health insurance. 
 
 But who says you can't have your cake and eat it too? Why not do both? This website chronicles a different kind of sailor. More of a weekend warrior. It collects my experiences learning to sail a small, trailerable sailboat, mostly in a lake near my home, but also in other fairly protected waters. You won't see epic voyages across oceans on this site, but adventure is were you find. And there are some very adventuresome things you can do with a small sailboat.

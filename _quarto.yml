@@ -20,11 +20,12 @@ website:
         menu: 
           - outlier.qmd
           - motor.qmd
+          - outlier_dinghy.qmd
       - text: "Bluewater Dreaming"
         menu: 
           - boats.qmd
           - dinghies.qmd
-      - text: "Seamanship"
+      - text: "Forehanded Sailing"
         menu:
           - seamanship.qmd
           - navigation.qmd

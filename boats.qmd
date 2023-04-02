@@ -9,6 +9,7 @@ This section contains boats I am considering the merits for my "next boat".
 
 ### Blue Water Boats
 
+#### Full Keel
 * [Cape Dory 36](https://sailboatdata.com/sailboat/cape-dory-36)
 
 * [Cabo Rico 38](https://sailboatdata.com/sailboat/cabo-rico-38)
@@ -17,7 +18,11 @@ This section contains boats I am considering the merits for my "next boat".
 
 * [Shannon 38](https://sailboatdata.com/sailboat/shannon-38)
 
+#### Modified Full Keel
+
 * [Pacific Seacraft 37](https://sailboatdata.com/sailboat/pacific-seacraft-37)
+
+* [Pearson 365](https://sailboatdata.com/sailboat/pearson-365)
 
 ### Coastal Cruisers
 
