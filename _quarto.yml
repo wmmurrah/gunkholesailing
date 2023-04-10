@@ -21,17 +21,18 @@ website:
           - outlier.qmd
           - motor.qmd
           - outlier_dinghy.qmd
-      - text: "Bluewater Dreaming"
-        menu: 
-          - boats.qmd
-          - dinghies.qmd
-      - text: "Forehanded Sailing"
+     
+      - text: "Gunkhole Seamanship"
         menu:
           - seamanship.qmd
           - navigation.qmd
           - weather.qmd
           - mooring.qmd
       - videos.qmd
+      - text: "Bluewater Dreaming"
+        menu: 
+          - boats.qmd
+          - dinghies.qmd  
 format:
   html:
     theme:  lumen # zephyr, yeti, superhero, sketchy, lumen, materia, sandstone

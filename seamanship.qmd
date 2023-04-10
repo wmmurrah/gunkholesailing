@@ -1,7 +1,18 @@
 ---
-title: "Forehanded Sailing"
+title: "Gunkhole Seamanship"
 ---
 
+**Gunkhole seamanship** is a term I created to describe the type of sailing I do.
+
+* small, often trailerable sailboat
+* shoal draft
+* protected waters such as lakes and rivers.
+* desire for solitude
+* secret spots that are difficult to get to and have no ammenities.
+* single-handed or short-handed sailing due to limited vessel capacity.
+
+These characteristics often require specialized techniques that are not discussed in much of the traditional sailing literature.
+Most books on seamanship related sailing focus on boat th
 
 >"To be forehanded is to be cautious and even pessimistic. A forehanded sailor looks ahead, anticipates the worst, and prepares for it by, among other things, setting and observing standard operating procedures."  
                         - John Rousmanere[^1]
