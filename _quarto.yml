@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
+  google-analytics: "G-8XG9TKWX0D"
   title: "gunkholesailing.com"
   favicon: gunkholescene.jpg
   sidebar:
